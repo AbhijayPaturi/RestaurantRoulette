@@ -1,9 +1,13 @@
 # Restaurant Roulette
 
-WPMS (Warehouse Product Management System) is a warehouse product information and management website where warehouse employees can track, view, and update the products entering and exiting their warehouse.
+Spin the wheel, go an adventure to the restaurant, & save time while creating countless memories on the short trek to the restaurant! Restaurant Roulette is a mobile app that will save a group of people tens of minutes of debate of where they will eat. A nearby restaurant will automatically be selected and basic information, such as its address and cuisine type, will be shown.  
 
 ## Description
-The intended audience are warehouse employees looking to digitize their warehouse by maintain a central product management and information system. In doing so, they can reduce operational inefficiencies like finding a piece of paper somewhere in a file cabinet with the location and information about a product in the warehouse. A warehouse employee can register clients who they need to ship a certain product to; view all the products in the warehouse, even by applying filters; view the details and a photo of each product they click on; add products that the warehouse recently received to the database; delete certain products from the database; and ship a product to a client if the quantity of that product is available in the warehouse.
+The intended audience are a group of friends, collegaues, family members, or mere acquaintances that either want to avoid quarrelling over which restaurant they will eat at or experience the thrill of eating at a restaurant they otherwise would not have thought/known of. After spinning the wheel, click on the name of the restaurant. After doing so, information about the restaurant will be revealed. However, not too much information (it's a surprise ... 😮). Even more, you can only spin ONCE! 
+
+The names of the restaurants on the wheel and information about the selected restaurant is displayed via the Yelp API. The mobile app was designed using Dart and very little Xcode. 
+
+Solving <i>pressing challenges</i> within the friend group while learning new development tools/techniques!
 
 ## Getting Started 
 Clone: [https://github.com/AbhijayPaturi/WarehouseProductManagementSystem.git](https://github.com/AbhijayPaturi/RestaurantRoulette.git)
